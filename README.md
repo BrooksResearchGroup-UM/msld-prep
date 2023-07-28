@@ -12,3 +12,7 @@
 ### These scripts identify common atoms (similar partial atomic charge and identical atom types) across different compounds of interest with a maximum common substructure search. A charge renormalization algorithm is then implemented to generate a set of partial atomic charges suitable for multisite sampling of many chemical functional groups with MSλD. 
 
 ### The output is a directory of CHARMM (and pyCHARMM) compatible files to use for MSλD simulations, including an example CHARMM input script. 
+
+### To install the repository clone it on your local computer and then:
+```sh
+
