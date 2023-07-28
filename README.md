@@ -16,3 +16,6 @@
 ### To install the repository clone it on your local computer and then:
 ```sh
 
+retreiveSubmodule.sh
+
+```
